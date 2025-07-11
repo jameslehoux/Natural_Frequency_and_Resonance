@@ -1,8 +1,8 @@
-# Interactive Vibration Lab: A Mass-Spring-Damper Simulator
+# Natural Frequency and Resonance: A Mass-Spring-Damper Simulator
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jameslehoux/Natural_Frequency_and_Resonance/HEAD)
 
-An interactive Jupyter Notebook for visualizing the dynamic response of a mass-spring-damper system. Use interactive sliders to adjust mass, stiffness, and damping to explore the concepts of natural frequency ($\omega_n$), damping ratio ($\zeta$), and resonance.
+An interactive Jupyter Notebook for visualising the dynamic response of a mass-spring-damper system. Use interactive sliders to adjust mass, stiffness, and damping to explore the concepts of natural frequency ($\omega_n$), damping ratio ($\zeta$), and resonance.
 
 
 ---
